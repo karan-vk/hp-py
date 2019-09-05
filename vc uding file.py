@@ -19,4 +19,3 @@ countT = countC + countV
 countCp = (countC / countT) * 100
 countVp = (countV / countT) * 100
 print(f"Percentage of vowel:{countVp} \n Percentage of consonants:{countCp}")
-
