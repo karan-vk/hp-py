@@ -128,7 +128,7 @@ class PriorityQueue:
 
 puzzle = list(range(9))
 shuffle(puzzle)
-puzzle = [1, 2, 3, 6, 5, 8, 7, 0, 4]
+puzzle = [4, 7, 6, 0, 5, 8, 3, 2, 1]
 solver = Solver(puzzle)
 solver.solve()
 print("hello")
